@@ -34,7 +34,7 @@ p {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.SOBRE {
+#SOBRE {
   background-color: #FFD9EC;
   height: 369px;
   width: 100%;
@@ -44,16 +44,16 @@ p {
   justify-content: space-between;
   align-items: center;
 }
-.SOBRE P {
+#SOBRE P {
   width: 587px;
   height: 265px;
   font-size: 25px;
   text-align: center;
 }
-.SOBRE figure {
+#SOBRE figure {
   margin-right: 5px;
 }
-.SOBRE figure img {
+#SOBRE figure img {
   border-radius: 10%;
   width: 365px;
   height: 355px;
@@ -63,7 +63,7 @@ p {
   opacity: 0px;
 }
 
-.CONSCIENTIZAÇÃO {
+#CONSCIENTIZAÇÃO {
   background-color: #FF69B4;
   height: 262px;
   width: 100%;
@@ -73,11 +73,11 @@ p {
   justify-content: space-between;
   align-items: center;
 }
-.CONSCIENTIZAÇÃO figure {
+#CONSCIENTIZAÇÃO figure {
   margin-left: 5px;
   margin-right: 5px;
 }
-.CONSCIENTIZAÇÃO figure img {
+#CONSCIENTIZAÇÃO figure img {
   border-radius: 5%;
   width: 421px;
   height: 234px;
@@ -86,19 +86,19 @@ p {
   gap: 0px;
   opacity: 0px;
 }
-.CONSCIENTIZAÇÃO p {
+#CONSCIENTIZAÇÃO p {
   text-align: center;
   font-size: 25px;
 }
 
-.DICAS {
+#DICAS {
   background-color: #FFD9EC;
   height: 426px;
   width: 100%;
   display: flex;
   align-items: center;
 }
-.DICAS figure {
+#DICAS figure {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
